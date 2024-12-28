@@ -1,0 +1,4 @@
+playwright 
+scrapegraphai
+nest_asyncio
+#run playwright install in terminal to download new browsers
